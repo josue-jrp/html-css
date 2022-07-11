@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+:root{
+    ---cor1:#C5EBD6;
+    ---cor2:#83E1AD;
+    ---cor3:#3DDC84;
+    ---cor4:#2FA866;
+    ---cor5:#063D1E;
+
+    ---font-android: 
+
+
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    background-color: lightgray;
+    
+}
+
